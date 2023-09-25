@@ -3,7 +3,6 @@ I found SQL Practice to be instructional and the website to be user-friendly, ne
 As a result, each question can now have many answers and other solutions. Here I am uploading how I solved those questions using my SQL knowledge.
 
 The test contains 50 questions and consists of 3 category: Easy,Medium,Hard
-You can use the following Entity Relationship Diagram (ERD) to figure out what data to store, the entities, their attributes and also how entities relate to other entities.
 
 The datasets ERD (Entitiy Relationship Diagram) is as shown below
 ![211203253-23f70de3-4786-45aa-8d7f-54fb81525415](https://github.com/haripriyasvaz/Learn_SQL_solutions/assets/107941463/7caff995-1720-4727-b40c-fd6bbb59f361)
